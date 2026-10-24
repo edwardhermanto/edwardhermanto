@@ -16,19 +16,12 @@ Here are some ideas to get you started:
 
 -->
 
-Hi I'm Edward, welcome to my GitHub page
+Hello!
 
-I like sushi, ramen, and bubble tea!
-I ike hackathons too :)
+My name is Edward Hermanto.
 
-Hahahaha.
-Welcome to intro to Git.
+I'm currently planning to develop a GW2 (Guild Wars 2) Legendary Crafting Tracker as a personal project, please stay tuned!
 
-nwPlus is cool!
+More information and any updates on the project will be posted under the [legendary-forge] (https://github.com/Turmakion/legendary-forge) repository.
 
-
-My favourite UBC courses are PSYC 102, CPSC 110, CHEM 313
-
-Hi
-
-Hope you all have fun at nwHacks!
+Thank you very much!
