@@ -20,6 +20,6 @@ My name is Edward Hermanto (he/him).
 
 I'm currently planning to develop a GW2 (Guild Wars 2) Legendary Crafting Tracker as a personal project, please stay tuned!
 
-More information and any updates on the project will be posted under the [legendary-forge] (https://github.com/Turmakion/legendary-forge) repository.
+More information and any updates on the project will be posted under the [legendary-forge](https://github.com/Turmakion/legendary-forge) repository.
 
 Thank you very much!
